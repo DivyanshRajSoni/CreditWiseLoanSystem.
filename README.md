@@ -60,3 +60,32 @@ The trained models were evaluated using standard classification metrics, and the
 ---
 
 ## 📁 Project Structure
+CreditWise-Loan-System/
+│
+├── data/
+│ └── loan_data.csv
+│
+├── notebooks/
+│ └── eda_modeling.ipynb
+│
+├── src/
+│ ├── preprocessing.py
+│ ├── model_training.py
+│ └── evaluation.py
+│
+├── README.md
+└── requirements.txt
+
+---
+
+## 🚀 Future Improvements
+- Hyperparameter tuning
+- Handling class imbalance
+- Model deployment using Flask / FastAPI
+- Adding explainability (SHAP / LIME)
+
+---
+
+## 📌 Author
+Divyansh Raj Soni
+
